@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ](https://www.anaconda.com)
 
-<img src="https://www.mpp.govt.nz/assets/news/2019/rokote-rokotus-MMR-MPR-rokko-AOP-8-06953528__ScaleMaxHeightWzYwMF0.jpg"/>
+<img src="https://github.com/Gtshivanand/Vaccine_Usage_Prediction-Using-Logistic-Regression-Algorithm/blob/main/images/Vaccine%20Usage%20Prediction.jpg"/>
 
 ## Introduction:
 Vaccination plays a crucial role in preventing the spread of infectious diseases and ensuring public health. However, vaccine hesitancy remains a major challenge, influenced by various demographic, psychological, and socio-economic factors.
